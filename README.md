@@ -24,3 +24,7 @@ Usage
 Boxlist Format
 --------------
 The first line of the boxlist file defines the X, Y, and Z dimensions of the pallet in which all the boxes are to be packed. Each successive line begins with a box number, then has the x, y, and z dimensions of the box, and finally how many of this box are to be packed onto the pallet.  A sample boxlist is [provided in the doc directory](https://github.com/exad/boxologic/tree/master/doc).
+
+
+## process output to generate new input
+cat doc/realBox.txt.out | python out.process.py
