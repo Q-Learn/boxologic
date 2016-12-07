@@ -230,7 +230,10 @@ void read_boxlist_input(void)
     boxlist[total_boxes].dim2 = atoi(dim2);
     boxlist[total_boxes].dim3 = atoi(dim3);
 
-    boxlist[total_boxes].vol = 1L * boxlist[total_boxes].dim1 * boxlist[total_boxes].dim2 * boxlist[total_boxes].dim3;
+    boxlist[total_boxes].vol = (long)boxlist[total_boxes].dim1 * boxlist[total_boxes].dim2 * boxlist[total_boxes].dim3;
+    
+
+    printf("%d %d %d %d %ld\n", total_boxes, boxlist[total_boxes].dim1, boxlist[total_boxes].dim2, boxlist[total_boxes].dim3, boxlist[total_boxes].vol);
     n = atoi(boxn);
     boxlist[total_boxes].n = n;
 
