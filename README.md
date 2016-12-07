@@ -28,3 +28,5 @@ The first line of the boxlist file defines the X, Y, and Z dimensions of the pal
 
 ## process output to generate new input
 cat doc/realBox.txt.out | python out.process.py
+http://askubuntu.com/questions/525051/how-do-i-use-graphics-h-in-ubuntu
+https://download.savannah.gnu.org/releases/libgraph/
