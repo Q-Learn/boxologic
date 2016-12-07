@@ -1,0 +1,40 @@
+---------------------------------------------------------------------------------------------
+                                       *** REPORT ***
+---------------------------------------------------------------------------------------------
+ELAPSED TIME                                          : Almost 0 sec
+TOTAL NUMBER OF ITERATIONS DONE                       : 0
+BEST SOLUTION FOUND AT ITERATION                      : 0 OF VARIANT: 0
+TOTAL NUMBER OF BOXES                                 : 20
+PACKED NUMBER OF BOXES                                : 0
+TOTAL VOLUME OF ALL BOXES                             : 150937600000
+PALLET VOLUME                                         : 67696454700
+BEST SOLUTION'S VOLUME UTILIZATION                    : 0 OUT OF 67696454700
+PERCENTAGE OF PALLET VOLUME USED                      : 0.000000 %
+PERCENTAGE OF PACKED BOXES (VOLUME)                   : 0.000000 %
+WHILE PALLET ORIENTATION                              : X=2350; Y=2394; Z= 12033
+---------------------------------------------------------------------------------------------
+  NO: PACKSTA DIMEN-1  DMEN-2  DIMEN-3   COOR-X   COOR-Y   COOR-Z   PACKEDX  PACKEDY  PACKEDZ
+---------------------------------------------------------------------------------------------
+
+
+ *** LIST OF UNPACKED BOXES ***
+    1 2680 1100 2560
+    2 2680 1100 2560
+    3 2680 1100 2560
+    4 2680 1100 2560
+    5 2680 1100 2560
+    6 2680 1100 2560
+    7 2680 1100 2560
+    8 2680 1100 2560
+    9 2680 1100 2560
+   10 2680 1100 2560
+   11 2680 1100 2560
+   12 2680 1100 2560
+   13 2680 1100 2560
+   14 2680 1100 2560
+   15 2680 1100 2560
+   16 2680 1100 2560
+   17 2680 1100 2560
+   18 2680 1100 2560
+   19 2680 1100 2560
+   20 2680 1100 2560
