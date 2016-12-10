@@ -1,7 +1,6 @@
 doc/boxlist.txt.out
 test/*.out
 boxologic
-visudat
 .cproject
 .project
 Debug
